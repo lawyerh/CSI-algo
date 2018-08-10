@@ -1,0 +1,11 @@
+C:\Users\lawyer\Documents\dotnet\algoSite\bin\Debug\netcoreapp2.1\algoSite.deps.json
+C:\Users\lawyer\Documents\dotnet\algoSite\bin\Debug\netcoreapp2.1\algoSite.runtimeconfig.json
+C:\Users\lawyer\Documents\dotnet\algoSite\bin\Debug\netcoreapp2.1\algoSite.runtimeconfig.dev.json
+C:\Users\lawyer\Documents\dotnet\algoSite\bin\Debug\netcoreapp2.1\algoSite.dll
+C:\Users\lawyer\Documents\dotnet\algoSite\bin\Debug\netcoreapp2.1\algoSite.pdb
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.csprojAssemblyReference.cache
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.csproj.CoreCompileInputs.cache
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.AssemblyInfoInputs.cache
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.AssemblyInfo.cs
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.dll
+C:\Users\lawyer\Documents\dotnet\algoSite\obj\Debug\netcoreapp2.1\algoSite.pdb
